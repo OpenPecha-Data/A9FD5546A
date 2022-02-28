@@ -1,0 +1,19 @@
+segment_sources:
+  P7465F054:
+    type: origin_type
+    relation: translation
+    language: en
+  P8AA34A63:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  dbf86c71004f4f3da6075efe72f7327f:
+    P7465F054: 57d49d1501624669b3877198ab9ce409
+    P8AA34A63: aa2347a257f744cdaac523101fe47977
+  9b6caed90cd1406a81154d327c5284e1:
+    P7465F054: ae5a1e19851a43009bdfb8f3e46a6b44
+    P8AA34A63: 54997b3012ea42dc807af7af13c7d8d2
+  95c01ed0279747f7a100964a624cd2a6:
+    P7465F054: 5c4c340b122f4a95ab5a095160270c0f
+    P8AA34A63: 1e17832de7144297a96ecdb0b6dfee34
